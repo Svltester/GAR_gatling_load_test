@@ -1,0 +1,265 @@
+﻿Diagnose log at 2024-04-07T17:19:30Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.0.935+8b4735fc7b
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 18363)
+Reading environment variables... OK
+ Variables:
+MSYSTEM_CHOST=x86_64-w64-mingw32
+_=C:/Program Files/Git/mingw64/bin/git
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+ORIGINAL_TMP=C:/Users/Papa/AppData/Local/Temp
+PUBLIC=C:\Users\Public
+ANALYSIS_PATH=C:\Program Files (x86)\HP\LoadRunner\
+USERPROFILE=C:\Users\Papa
+ALLUSERSPROFILE=C:\ProgramData
+LOGONSERVER=\\PAPA
+user=vshilov
+INFOPATH=C:\Program Files\Git\mingw64\local\info;C:\Program Files\Git\mingw64\share\info;C:\Program Files\Git\usr\local\info;C:\Program Files\Git\usr\share\info;C:\Program Files\Git\usr\info;C:\Program Files\Git\share\info
+LOCALAPPDATA=C:\Users\Papa\AppData\Local
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+COMMANDER_EXE=C:\Program Files\totalcmd\TOTALCMD64.EXE
+VUGEN_PATH=C:\Program Files (x86)\HP\LoadRunner\
+GATEWAY_VM_OPTIONS=C:\Program Files\JetBrains\PyCharm 2020.1\jetbra\vmoptions\gateway.vmoptions
+OPENSSLDIR=C:\Program Files\Common Files\SSL\
+COMMANDER_DRIVE=C:
+APPCODE_VM_OPTIONS=C:\Program Files\JetBrains\PyCharm 2020.1\jetbra\vmoptions\appcode.vmoptions
+PKG_CONFIG_PATH=C:\Program Files\Git\mingw64\lib\pkgconfig;C:\Program Files\Git\mingw64\share\pkgconfig
+TMPDIR=C:\Users\Papa\AppData\Local\Temp
+ORIGINAL_PATH=C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Papa\bin;C:\Program Files\Java\jdk-18.0.1.1\bin;C:\Program Files\dotnet;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_291\apache-maven-3.9.2\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\windows;C:\Program Files\OpenSSL-Win64\bin;C:\Program Files\Common Files\SSL;C:\Program Files\OpenSSL\lib\engines-1_1;C:\Users\Papa\AppData\Local\Microsoft\WindowsApps;C:\Python39;C:\Python39\Scripts;C:\Users\Papa\AppData\Local\atom\bin;C:\Python39\Lib;C:\Program Files\JetBrains\PyCharm 2020.3.3\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2020.3.3\bin;C:\chromedriver;C:\geckodriver;C:\Program Files\Azure Data Studio\bin;D:\Tester_self\Alure\allure-2.14.0\bin;C:\Program Files\JetBrains\DataGrip 2021.2.4\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2020.3.3\bin;C:\Users\Papa\AppData\Roaming\npm;C:\Users\Papa\go\bin;C:\Program Files\JetBrains\GoLand 2020.1\bin;C:\Users\Papa\AppData\Local\Programs\Fiddler;C:\Users\Papa\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\Papa\.dotnet\tools;C:\Program Files\JetBrains\PyCharm Community Edition 2023.1\bin;C:\Program Files\smartmontools\bin;C:\Windows\System32;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.2\bin;C:\Windows\System32
+ENGINESDIR=C:\Program Files\OpenSSL\lib\engines-1_1\
+PyCharm=C:\Program Files\JetBrains\PyCharm 2020.3.3\bin;
+ACLOCAL_PATH=C:\Program Files\Git\mingw64\share\aclocal;C:\Program Files\Git\usr\share\aclocal
+ProgramW6432=C:\Program Files
+MINGW_PREFIX=C:/Program Files/Git/mingw64
+LOG_FILE=C:\Users\Papa\AppData\Local\Temp\ihp_custom_batches.log
+SYSTEMROOT=C:\Windows
+GoLand=C:\Program Files\JetBrains\GoLand 2020.1\bin;
+WINDIR=C:\Windows
+password1=28CehXthRhfRfh
+DATASPELL_VM_OPTIONS=C:\Program Files\JetBrains\PyCharm 2020.1\jetbra\vmoptions\dataspell.vmoptions
+MOZ_DISABLE_OOP_PLUGINS=1
+SHELL=C:\Program Files\Git\usr\bin\bash.exe
+LG_PATH=C:\Program Files (x86)\HP\LoadRunner\
+MSYSTEM=MINGW64
+STUDIO_VM_OPTIONS=C:\Program Files\JetBrains\PyCharm 2020.1\jetbra\vmoptions\studio.vmoptions
+DATAGRIP_VM_OPTIONS=C:\Program Files\JetBrains\PyCharm 2020.1\jetbra\vmoptions\datagrip.vmoptions
+OS=Windows_NT
+PROCESSOR_ARCHITECTURE=x86
+MSYSTEM_CARCH=x86_64
+SHLVL=1
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+LC_CTYPE=ru_RU.UTF-8
+DISPLAY=needs-to-be-defined
+IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2020.3.3\bin;
+JAVA_HOME=c:\Program Files\Java\jdk-18.0.1.1
+ORIGINAL_TEMP=C:/Users/Papa/AppData/Local/Temp
+CommonProgramW6432=C:\Program Files\Common Files
+ProgramFiles(x86)=C:\Program Files (x86)
+PyCharm Community Edition=C:\Program Files\JetBrains\PyCharm Community Edition 2023.1\bin;
+COMSPEC=C:\Windows\system32\cmd.exe
+GOPATH=C:\Users\Papa\go
+USERNAME=Papa
+MANPATH=C:\Program Files\Git\mingw64\local\man;C:\Program Files\Git\mingw64\share\man;C:\Program Files\Git\usr\local\man;C:\Program Files\Git\usr\share\man;C:\Program Files\Git\usr\man;C:\Program Files\Git\share\man
+ANDROID_HOME=c:\Users\Papa\AppData\Local\Android\Sdk\
+WEBIDE_VM_OPTIONS=C:\Program Files\JetBrains\PyCharm 2020.1\jetbra\vmoptions\webide.vmoptions
+TERM_PROGRAM_VERSION=3.6.3
+MINGW_CHOST=x86_64-w64-mingw32
+TERM=xterm
+GOLAND_VM_OPTIONS=C:\Program Files\JetBrains\PyCharm 2020.1\jetbra\vmoptions\goland.vmoptions
+DataGrip=C:\Program Files\JetBrains\DataGrip 2021.2.4\bin;
+JETBRAINSCLIENT_VM_OPTIONS=C:\Program Files\JetBrains\PyCharm 2020.1\jetbra\vmoptions\jetbrainsclient.vmoptions
+JETBRAINS_CLIENT_VM_OPTIONS=C:\Program Files\JetBrains\PyCharm 2020.1\jetbra\vmoptions\jetbrains_client.vmoptions
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PROCESSOR_REVISION=9e0b
+PWD=D:/WORK.Bars/GAR/GAR_GatlingLoadTest
+APPDATA=C:\Users\Papa\AppData\Roaming
+USERDOMAIN=PAPA
+IDEA_VM_OPTIONS=C:\Program Files\JetBrains\PyCharm 2020.1\jetbra\vmoptions\idea.vmoptions
+DEVECOSTUDIO_VM_OPTIONS=C:\Program Files\JetBrains\PyCharm 2020.1\jetbra\vmoptions\devecostudio.vmoptions
+COMPUTERNAME=PAPA
+COMMANDER_PATH=C:\Program Files\totalcmd
+RIDER_VM_OPTIONS=C:\Program Files\JetBrains\PyCharm 2020.1\jetbra\vmoptions\rider.vmoptions
+COMMANDER_INSTANCE=1
+PATH=C:/Program Files/Git/mingw64/libexec/git-core;C:\Users\Papa\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Papa\bin;C:\Program Files\Java\jdk-18.0.1.1\bin;C:\Program Files\dotnet;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_291\apache-maven-3.9.2\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\windows;C:\Program Files\OpenSSL-Win64\bin;C:\Program Files\Common Files\SSL;C:\Program Files\OpenSSL\lib\engines-1_1;C:\Users\Papa\AppData\Local\Microsoft\WindowsApps;C:\Python39;C:\Python39\Scripts;C:\Users\Papa\AppData\Local\atom\bin;C:\Python39\Lib;C:\Program Files\JetBrains\PyCharm 2020.3.3\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2020.3.3\bin;C:\chromedriver;C:\geckodriver;C:\Program Files\Azure Data Studio\bin;D:\Tester_self\Alure\allure-2.14.0\bin;C:\Program Files\JetBrains\DataGrip 2021.2.4\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2020.3.3\bin;C:\Users\Papa\AppData\Roaming\npm;C:\Users\Papa\go\bin;C:\Program Files\JetBrains\GoLand 2020.1\bin;C:\Users\Papa\AppData\Local\Programs\Fiddler;C:\Users\Papa\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\Papa\.dotnet\tools;C:\Program Files\JetBrains\PyCharm Community Edition 2023.1\bin;C:\Program Files\smartmontools\bin;C:\Windows\System32;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.2\bin;C:\Windows\System32;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+CLION_VM_OPTIONS=C:\Program Files\JetBrains\PyCharm 2020.1\jetbra\vmoptions\clion.vmoptions
+CURR_DIR=C:\Program Files (x86)\HP\LoadRunner\dat\Setup\LoadRunner\MSBuild\..\..\..\..
+ChocolateyLastPathUpdate=133061614756181387
+PROCESSOR_ARCHITEW6432=AMD64
+PLINK_PROTOCOL=ssh
+PROCESSOR_LEVEL=6
+ProgramData=C:\ProgramData
+EXEPATH=C:\Program Files\Git
+INVEST_TOKEN=t.SrwYD-i-i_mQgW0U8L9EYvgpeeNmV9bn6xpJWLaWzWe49TWblJ8CWSPekSkUvjmrbrg9qLJ9TW5PKh-YmZsFWw
+HOMEDRIVE=C:
+PKG_CONFIG_SYSTEM_INCLUDE_PATH=C:/Program Files/Git/mingw64/include
+PKG_CONFIG_SYSTEM_LIBRARY_PATH=C:/Program Files/Git/mingw64/lib
+PROGRAMFILES=C:\Program Files (x86)
+SSH_ASKPASS=C:/Program Files/Git/mingw64/bin/git-askpass.exe
+USERDOMAIN_ROAMINGPROFILE=PAPA
+COMMANDER_INI=C:\Users\Papa\AppData\Roaming\GHISLER\wincmd.ini
+LR_PATH=C:\Program Files (x86)\HP\LoadRunner\
+WEBSTORM_VM_OPTIONS=C:\Program Files\JetBrains\PyCharm 2020.1\jetbra\vmoptions\webstorm.vmoptions
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 11, GenuineIntel
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+LR_ROOT=C:\Program Files (x86)\HP\LoadRunner\
+TARGETDIR=C:\Program Files (x86)\HP\LoadRunner\dat\Setup\LoadRunner\MSBuild\..\..\..\..
+FTP_PASSIVE=1
+C_EM64T_REDIST11=C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\
+CONFIG_SITE=C:/Program Files/Git/etc/config.site
+HOSTNAME=Papa
+LOGGER_CONFIG_PATH=C:\Program Files (x86)\HP\LoadRunner\dat\ltlogconf.xml
+TERM_PROGRAM=mintty
+PYCHARM_VM_OPTIONS=C:\Program Files\JetBrains\PyCharm 2020.1\jetbra\vmoptions\pycharm.vmoptions
+NUMBER_OF_PROCESSORS=4
+PS1=\[\033]0;$TITLEPREFIX:$PWD\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ 
+RUBYMINE_VM_OPTIONS=C:\Program Files\JetBrains\PyCharm 2020.1\jetbra\vmoptions\rubymine.vmoptions
+SYSTEMDRIVE=C:
+IntelliJ IDEA Community Edition=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.2\bin;
+mvn=C:\Program Files\Java\jdk1.8.0_291\apache-maven-3.9.2\bin
+TMP=C:\Users\Papa\AppData\Local\Temp
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+ChocolateyInstall=C:\ProgramData\chocolatey
+GIT_TRACE2_PARENT_SID=1a8ff87e-3036-4fbc-8809-7cabc467c894
+HOMEPATH=\Users\Papa
+EXE4J_JAVA_HOME=c:\Program Files\Java\jdk-18.0.1.1\
+HOME=C:\Users\Papa
+MSYSTEM_PREFIX=C:/Program Files/Git/mingw64
+MINGW_PACKAGE_PREFIX=mingw-w64-x86_64
+PHPSTORM_VM_OPTIONS=C:\Program Files\JetBrains\PyCharm 2020.1\jetbra\vmoptions\phpstorm.vmoptions
+TEMP=C:\Users\Papa\AppData\Local\Temp
+MOZ_PLUGIN_PATH=C:\PROGRAM FILES (X86)\FOXIT SOFTWARE\FOXIT READER\plugins\
+winsys32=C:\Windows\System32\
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\Papa\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\Papa\AppData\Local\Temp\7cc84e3e9c32c35101dc114e'... OK
+Reading from temporary file 'C:\Users\Papa\AppData\Local\Temp\7cc84e3e9c32c35101dc114e'... OK
+Deleting temporary file 'C:\Users\Papa\AppData\Local\Temp\7cc84e3e9c32c35101dc114e'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\Papa
+UserDataDirectoryPath: C:\Users\Papa\.gcm
+GetCurrentDirectory(): D:\WORK.Bars\GAR\GAR_GatlingLoadTest
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:17621/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.40.1.windows.1'
+Locating current repository... OK
+Git repository at 'D:/WORK.Bars/GAR/GAR_GatlingLoadTest/.git'
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/Papa/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/Papa/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/Papa/.gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/Papa/.gitconfig	filter.lfs.required=true
+file:C:/Users/Papa/.gitconfig	user.name=Svltester
+file:C:/Users/Papa/.gitconfig	user.email=v.shilov@bars-open.ru
+file:C:/Users/Papa/.gitconfig	core.editor="C:\Users\Papa\AppData\Local\atom\app-1.60.0\atom.exe" --wait
+file:C:/Users/Papa/.gitconfig	gui.recentrepo=C:/Users/Papa/Documents/GitHub/Rep_4_Git
+file:C:/Users/Papa/.gitconfig	safe.directory=D:/WORK.Bars/AM/Fuzzing_III
+file:C:/Users/Papa/.gitconfig	safe.directory=D:/WORK.Bars/AM/Fuzzing_IV
+file:C:/Users/Papa/.gitconfig	safe.directory=D:/WORK.Bars/AM/Fuzzing_V
+file:C:/Users/Papa/.gitconfig	safe.directory=C:/Users/Papa/IdeaProjects/gatling-maven-plugin-AM-java
+file:C:/Users/Papa/.gitconfig	safe.directory=C:/Users/Papa/IdeaProjects/GARGatlingLoadTest
+file:C:/Users/Papa/.gitconfig	credential.helper=store
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/Svltester/GAR_gatling_load_test.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	credential.helper=store
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker not supported.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\Papa\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\Papa\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
